@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Rubik-Medium';
+    src: url(../fonts/Rubik-Medium.ttf);
+}
+@font-face{
+    font-family: 'Rubik-Regular';
+    src: url(../fonts/Rubik-Regular.ttf);
+}
+@font-face {
+    font-family: 'DM-sans';
+    src: url(../fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf);
+}
+@font-face {
+    font-family: 'DM-Sans';
+    src: url(../fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
